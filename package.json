@@ -1,11 +1,11 @@
 {
   "name": "layout-flex",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "css layout flex ",
   "main": "main.js",
   "scripts": {
     "start": "gulp",
-    "deploy": "gh-pages -d ./",
+    "pages": "gh-pages -d ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
