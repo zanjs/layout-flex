@@ -1,5 +1,8 @@
 layout-flex
 ====
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/layout-flex.svg)](https://greenkeeper.io/)
+
 ### 安装
 ```
 npm install layout-flex --save
